@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/geroalberino-RoboFriends/static/css/main.8cc55ca5.chunk.css",
+    "main.js": "/geroalberino-RoboFriends/static/js/main.239bdbbf.chunk.js",
+    "main.js.map": "/geroalberino-RoboFriends/static/js/main.239bdbbf.chunk.js.map",
+    "runtime-main.js": "/geroalberino-RoboFriends/static/js/runtime-main.ad9c9e56.js",
+    "runtime-main.js.map": "/geroalberino-RoboFriends/static/js/runtime-main.ad9c9e56.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/geroalberino-RoboFriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.43071c07.chunk.js": "/geroalberino-RoboFriends/static/js/2.43071c07.chunk.js",
+    "static/js/2.43071c07.chunk.js.map": "/geroalberino-RoboFriends/static/js/2.43071c07.chunk.js.map",
+    "index.html": "/geroalberino-RoboFriends/index.html",
+    "precache-manifest.150d1e8f0eebf84d90e29b36ebc4ff48.js": "/geroalberino-RoboFriends/precache-manifest.150d1e8f0eebf84d90e29b36ebc4ff48.js",
+    "service-worker.js": "/geroalberino-RoboFriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/geroalberino-RoboFriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.8cc55ca5.chunk.css.map": "/geroalberino-RoboFriends/static/css/main.8cc55ca5.chunk.css.map",
+    "static/js/2.43071c07.chunk.js.LICENSE.txt": "/geroalberino-RoboFriends/static/js/2.43071c07.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/geroalberino-RoboFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9c9e56.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.43071c07.chunk.js",
+    "static/css/main.8cc55ca5.chunk.css",
+    "static/js/main.239bdbbf.chunk.js"
+  ]
+}
